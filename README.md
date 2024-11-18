@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**amirmor76/amirmor76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Persian Commander (Hakhamaneshian Era)](https://github.com/user-attachments/assets/103585ae-e3de-4db4-be40-6f340598a6c2)  
+**Persian Commander (Hakhamaneshian Era)**
 
 - 🔭 I’m currently working on server-side dev
 - 🌱 I’m currently learning machine learning
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: You read all to this point!
--->
+
